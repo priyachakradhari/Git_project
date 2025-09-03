@@ -1,3 +1,4 @@
 # Git_project
 
-this is my repo
+this is my first repo
+this is my first project
